@@ -1,8 +1,14 @@
 # Discord Timer Bot
 
-A Discord timer bot, called with `.timer`, that plays a sound when time is up! 
+A Discord timer bot, that uses ffmpeg to play a sound when the time is up! 
+
+Code can be hosted locally on linux or on a linux server. 
 
 ![image](https://user-images.githubusercontent.com/100603074/204672021-2babe946-f60d-4376-add5-fa260312fbb9.png)
+
+*Use as a starting reference for creating your own :) !*
+
+*Not robust code, will break if kicked while playing sound or if multiple timers are set at the same time :)* 
 
 ## Installation
 
