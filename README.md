@@ -12,6 +12,8 @@ Code can be hosted locally on linux or on a linux server.
 
 ## Installation
 
+**Note:** *Run the following code as a user, **try to avoid using sudo**, see [here](https://stackoverflow.com/questions/29310688/sudo-pip-install-vs-pip-install-user) for more info.*
+
 ```
 git clone https://github.com/A-poc/discord-timer-bot;cd discord-timer-bot;pip install -r requirements.txt
 ```
